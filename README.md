@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 
 This project is focused on the implementation of a "Deep Fake" deep neural network; it will be a model composed of two smaller deep neural networks, the discriminator network, whose function, once trained, is to accept an image as input, and classify it as either a real image or one that was synthesized using the second component network, the autoencoder (generator) network.
 
@@ -10,7 +10,7 @@ In order to accomplish this task, I will first construct the most basic function
 
 As a comparative benchmark, I have generated some sample output from a publicly available DeepFake software called DeepFaceLab. Here are two results I have achieved from it so far. I would consider the result on the left to be under trained, and the result on the right to be better, but over trained on the input data set.![](images/media/image1.png)
 
-#References
+# References
 
 DeepFaceLab: [[https://github.com/iperov/DeepFaceLab]{.underline}](https://github.com/iperov/DeepFaceLab)
 
