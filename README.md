@@ -12,14 +12,15 @@ As a comparative benchmark, I have generated some sample output from a publicly 
 
 # References
 
-DeepFaceLab: [[https://github.com/iperov/DeepFaceLab]{.underline}](https://github.com/iperov/DeepFaceLab)
+DeepFaceLab: https://github.com/iperov/DeepFaceLab
+FaceSwap: https://github.com/deepfakes/faceswap
 
-FaceSwap: [[https://github.com/deepfakes/faceswap]{.underline}](https://github.com/deepfakes/faceswap)
-
-Autoencoders: [[http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/]{.underline}](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/)
+Autoencoders: http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
 
 https://developers.google.com/machine-learning/gan/generator
 
-Discriminators: [[https://developers.google.com/machine-learning/gan/discriminator]{.underline}](https://developers.google.com/machine-learning/gan/discriminator)
+Discriminators: https://developers.google.com/machine-learning/gan/discriminator
+https://developers.google.com/machine-learning/gan/discriminator
 
 GANs: https://developers.google.com/machine-learning/gan/gan\_structure
