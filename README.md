@@ -16,8 +16,6 @@ DeepFaceLab: https://github.com/iperov/DeepFaceLab
 FaceSwap: https://github.com/deepfakes/faceswap
 
 Autoencoders: http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
-http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
-
 https://developers.google.com/machine-learning/gan/generator
 
 Discriminators: https://developers.google.com/machine-learning/gan/discriminator
